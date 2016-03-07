@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "description": "y",
+  "main": "y",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
